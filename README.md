@@ -2,9 +2,9 @@
 
 A Python dashboard that estimates where options dealers' hedging is likely to **dampen or amplify** S&P 500 moves, using options that expire the same day (0DTE).
 
-**[Live demo]([DEMO URL])** · **[Case study]([SHOWCASE URL])** · Built by Alonzo Goffe
+**[Open the demo](https://spx-gex-demo.streamlit.app/)** · Built by Alonzo Goffe
 
-> **Educational and portfolio project. Not investment advice.** The public demo shows a frozen snapshot of real market data, not a live feed. No trades are placed by this tool.
+> **Educational and portfolio project. Not investment advice.** The demo shows the tool's output from a real session (Mon 28 Sep 2026, 15:24 ET), saved as a snapshot, not a live feed. No trades are placed by this tool.
 
 ![Dashboard](docs/dashboard.png)
 
