@@ -1,0 +1,18 @@
+# Secrets - never commit
+.env
+tokens.json
+*tokens*.json
+*.bak
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# scratch
+_tmp_review/
+# synthetic preview data (not for the public repo)
+sample/
+# documents saved by the Claude desktop app
+Claude outputs/
+# extra snapshots kept locally, not published
+snapshots_archive/

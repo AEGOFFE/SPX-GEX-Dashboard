@@ -1,0 +1,10 @@
+[theme]
+base = "dark"
+primaryColor = "#22d3ee"            # cyan accent: interaction only
+backgroundColor = "#0b0c0e"
+secondaryBackgroundColor = "#131519"
+textColor = "#e6e7e9"
+font = "sans serif"
+
+[client]
+toolbarMode = "viewer"              # hides the Deploy button / developer menu
